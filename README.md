@@ -1,1 +1,1 @@
-# Fuzzy-CNN-image-enhancement
+# fuzzy-cnn-image-enhancement
